@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<head>
+<Title> 2nd Activity </title>
+</head>
+
+<body>
+<body style="background-image: url('123.jpg'); background-size: 100%">
+</body>
+
+
+<center>
+<h1 style="border:orange; border-width:5px; border-style:solid;"> MY SECOND ACTIVITY </h1> 
+
+<hr>
+</hr>
+<p> Good day! Let's try THE HTML ACTIVITY </p>
+<hr>
+</hr>
+
+<h3 style="color:Green"> <u> GOOGLE </u> </h3>
+
+Google is an internet search engine. You can search anything in Google picture, videos, and article you want to find. It's also one of a good source of informations for people.Google is also student friendly because it can help us to find answers to our research and assignments.
+
+</th>
+</tr><br>
+<tr>
+<th>
+
+<h3 style="color:DARKblue"> <u> FACEEBOOK </u> </h3>
+
+Facebook is a social networking app that people use to connect to other people whenever they are. I choose this because it's easy to use and most people use this app to communicate with other people.I can also share pictures, music, videos, and articles, as well as my own thoughts and opinions.
+
+</tr>
+</th><br>
+<tr>
+<th>
+
+<h3 style="color:Blue"> <u> TWITTER </u> </h3>
+Twitter is also an social networking app. This is much easier to use than facebook since twitter is like a blog posting app. i choose this because i can get much sorted update here in the groups i supported.Also it's not complicated to use.
+
+</th>
+</tr><br>
+<th>
+<tr>
+
+<h3 style="color:Red"> YOUTUBE </h3>
+Youtube is a video streaming app. You can search videos you want to watch in this app. The app is also easy to use and easy to navigate. You can watch and listen music here. I choose this because aside from watching TV or reading books you can watch and gather information here.
+
+</tr>
+</th><br>
+<tr>
+<th>
+
+<h3 style="color:Red"> SHOPEE </h3>
+
+Shopee is a E-Commerce App or E-Shopping app.Unlike Lazada, Shoppee is much more user friendly. You can find variety of goods here and you can also sell things here. I choose shoppee because it's easy to shop and find things here it's also convenient if you don't want to shop outside your house.
+
+</th>
+</tr><br>
+
+&nbsp
+<center>
+<table class="center">
+<table border="1px">
+
+<tr>
+<td rowspan="0"> SEARCH </td>
+</tr>
+
+<tr>
+	<th>BROWSER</th>
+	<th>WEBSITES</th>
+	<th>LINKS</th>
+</tr>
+
+<tr>
+	<td>CHROME</td>
+	<td>GOOGLE</td>
+	<td><a href="https://www.google.com/" target=_"blank">https://www.google.com/</a></td>
+</tr>
+
+<tr>
+	<td>CHROME</td>
+	<td>FACEBOOK</td>
+	<td><a href="https://www.facebook.com/" target=_"blank">https://www.facebook.com/</a></td>
+</tr>
+
+<tr>
+	<td>CHROME</td>
+	<td>TWITTER</td>
+	<td><a href="https://www.twitter.com/" target=_"blank">https://www.twitter.com/</a></td>
+</tr>
+
+<tr>
+	<td>CHROME</td>
+	<td>YOUTUBE</td>
+	<td><a href="https://www.youtube.com/" target=_"blank">https://www.youtube.com/</a></td>
+</tr>
+
+<tr>
+	<td>CHROME</td>
+	<td>Shopee</td>
+	<td><a href="https://www.shopee.ph/" target=_"blank">https://www.shopee.ph/</a></td>
+</tr>
+
+</center>
